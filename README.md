@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack programming
 - 🌱 I’m currently learning nodejs and bootstrap5 
 - 💞️ I’m looking to collaborate on web developers
-- 📫 How to reach me imomovismoil911@gmail.com
+- 📫 How to reach me imomovismoil911@gmail.com and https://t.me/Ismoil_WebDev
 
 <!---
 fullstackdev-pro/fullstackdev-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
